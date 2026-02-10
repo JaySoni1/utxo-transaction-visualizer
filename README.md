@@ -43,7 +43,3 @@ $env:BITCOIN_API_BASE="https://mempool.space/testnet4/api"
 npm run dev
 ```
 
-## Notes
-
-- This project is intended for education and uses **testnet4** data.
-- Do not commit `.env*` files (they are already ignored by `.gitignore`).
